@@ -1,1 +1,1 @@
-# Netflix-Chill_EDA
+# Netflix & Chill_EDA
